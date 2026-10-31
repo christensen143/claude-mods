@@ -1,0 +1,7 @@
+{
+  "name": "claude-mods",
+  "owner": { "name": "christensen143" },
+  "plugins": [
+    { "name": "prompt-enhancer", "source": "./mods/prompt-enhancer" }
+  ]
+}

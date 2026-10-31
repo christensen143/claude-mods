@@ -1,0 +1,6 @@
+{
+  "name": "prompt-enhancer",
+  "version": "0.1.0",
+  "description": "Rewrites a vague draft into a precise prompt using the project's CLAUDE.md and installed skills, shows it in the prompt box, and sends it only when you press Send.",
+  "types": "./types/index.d.ts"
+}
